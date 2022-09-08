@@ -1,0 +1,101 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 25px;
+  font-size: 25px;
+  border-bottom: solid 10px orange;
+}
+#imagelogo {
+  width: 15vw;
+}
+main {
+  font-size: 36px;
+  margin: 100px;
+  text-align: start;
+}
+h1 {
+  margin-top: -40px;
+  margin-bottom: 70px;
+  margin-left: 5vw;
+}
+#resumo {
+  text-align: start;
+  margin-bottom: 40px;
+  margin-left: 5vw;
+  font-size: 0.83em;
+  color: rgb(94, 95, 96);
+}
+#autor {
+  font-size: 0.5em;
+  text-align: start;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-weight: bold;
+  margin-left: 5vw;
+}
+#data {
+  font-size: 0.4em;
+  text-align: start;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: rgb(161, 158, 158);
+  margin-left: 5vw;
+  margin-bottom: 20px;
+}
+#images {
+  margin-left: 5vw;
+}
+#fb,
+#tt,
+#wpp {
+  padding: 15px;
+  padding-left: 2px;
+}
+article {
+  text-align: start;
+  margin-left: 5vw;
+}
+.par {
+  font-size: 25px;
+  line-height: 50px;
+  color: rgb(106, 104, 104);
+  margin: 60px;
+}
+figcaption {
+  font-size: 0.4em;
+  margin-left: 4vw;
+  margin-bottom: 40px;
+}
+a {
+  text-decoration: none;
+  color: rgb(206, 141, 20);
+  font-weight: bold;
+  margin-left: 4vw;
+  font-size: 30px;
+}
+span {
+  margin-left: 4vw;
+  font-size: 30px;
+}
+.fotos {
+  margin-top: 50px;
+  margin-left: 4vw;
+  width: 85%;
+}
+h3 {
+  margin-left: 4vw;
+  margin-top: 50px;
+  margin-bottom: -40px;
+}
+footer {
+  background-color: #333;
+  padding: 50px;
+  color: #fff;
+}
